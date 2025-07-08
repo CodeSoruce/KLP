@@ -7,7 +7,7 @@ The source code of each algorithm for MalKLP enumeration (i.e., KLPE+, KLPE-BK+,
 
 * Compile
 
-  > g++ -std=c++11 main.cpp graph.cpp -O3 -o main
+  > g++ main.cpp graph.cpp -O3 -o main
 
 
 * Run
@@ -19,7 +19,7 @@ The source code of each algorithm for MaxKLP identification (i.e., MKLP+, MKLP-B
 
 * Compile
 
-  > g++ -std=c++11 main.cpp graph.cpp -O3 -o main
+  > g++ main.cpp graph.cpp -O3 -o main
 
 
 * Run
