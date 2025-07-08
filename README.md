@@ -1,7 +1,7 @@
 # KLP
 ## Compile & Run
 
-The source code of our paper are in the folder "src".
+The source code of our paper is in the folder "src".
 
 The source code of each algorithm for MalKLP enumeration (i.e., KLPE+, KLPE-BK+, KLPE-BR, KLPE-GR) has four parameters, corresponding to the dataset name (e.g., **D1**) and the three positive integers $k$, $l$ and $\theta$  (e.g., **(2,4,8)**).
 
