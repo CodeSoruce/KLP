@@ -29,4 +29,4 @@ The source code of each algorithm for MaxKLP identification (i.e., MKLP+, MKLP-B
 
 ## Datasets
 
-We provide two sample datasets in the folder "sample_dataset" for testing, D1 and D2.
+We provide five sample datasets in the folder "sample_dataset" for testing, D1 - D5.
